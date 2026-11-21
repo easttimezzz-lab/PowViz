@@ -1,0 +1,20 @@
+# 工作区中与项目无关的内容
+.aicode/
+autoxjs/
+shots/
+
+# Android 构建产物
+statusbar-power/build/
+*.apk
+*.idsig
+*.dex
+
+# 签名与本地配置
+statusbar-power/debug.keystore
+*.keystore
+local.properties
+.gradle/
+
+# 编辑器 / 系统
+.idea/
+.DS_Store
