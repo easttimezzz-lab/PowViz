@@ -17,6 +17,10 @@
   <img src="docs/app.png" width="320">
 </p>
 
+## 下载
+
+最新安装包见 [Releases](https://github.com/easttimezzz-lab/PowViz/releases/latest)。
+
 
 ## 功能
 
