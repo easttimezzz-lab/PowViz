@@ -6,6 +6,18 @@
 
 > **支持设备**：MEIZU 20 / Flyme 11.2.1（Android 14）已验证；其他品牌 ROM 暂不支持（hook 依赖 Flyme 的电池视图与状态栏布局）。
 
+## 截图
+
+| 浅色状态栏 | 深色状态栏 |
+| :---: | :---: |
+| <img src="docs/statusbar-light.png" width="420"> | <img src="docs/statusbar-dark.png" width="420"> |
+| 功率文字随图标变为黑色 | 深色背景下自动变为白色 |
+
+<p align="center">
+  <img src="docs/app.png" width="320">
+</p>
+
+
 ## 功能
 
 - 状态栏电池图标正上方显示实时功率，如 `2.34W`
